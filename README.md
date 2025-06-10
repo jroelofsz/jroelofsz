@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm passionate about software development with a f
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40"/>
+  <img src="./mssql.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40" height="40"/>
 </p>

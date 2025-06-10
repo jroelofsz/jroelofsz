@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software development with a f
 
 ---
 
-## Tech Stack
+## Technologies
 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>

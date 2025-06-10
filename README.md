@@ -16,7 +16,16 @@ Welcome to my GitHub profile! I'm passionate about software development with a f
   <img src="./mssql.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linuxmint" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/sqlite" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/sqlalchemy" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pandas" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript" alt="Node.js" width="40" height="40"/>
+
+  
 </p>
+
 ---
 
 ## Current Focus

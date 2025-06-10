@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software development with a f
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
@@ -19,13 +19,13 @@ Welcome to my GitHub profile! I'm passionate about software development with a f
 </p>
 ---
 
-## 🎮 Current Focus
+## Current Focus
 
 I'm actively working on **FiveM** development, creating custom scripts, resources, and tools for the GTA V multiplayer platform. My work enhances gameplay experiences for communities, with a strong emphasis on quality and collaboration.
 
 ---
 
-## 🤝 Open Source & Community
+## Open Source & Community
 
 - Proud contributor to [Project Sloth](https://github.com/project-sloth), a community-driven FiveM resource hub.
 

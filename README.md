@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about software development with a f
 
 ## Current Focus
 
-I'm actively working on **FiveM** development, creating custom scripts, resources, and tools for the GTA V multiplayer platform. My work enhances gameplay experiences for communities, with a strong emphasis on quality and collaboration.
+I'm actively working on **FiveM** development, creating custom scripts, resources, and tools for the platform. My work enhances gameplay experiences for communities, with a strong emphasis on quality and collaboration.
 
 ---
 
